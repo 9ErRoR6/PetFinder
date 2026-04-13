@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "tailwindcss";
+
+@layer utilities {
+	input:-webkit-autofill,
+	input:-webkit-autofill:hover,
+	input:-webkit-autofill:focus,
+	textarea:-webkit-autofill,
+	textarea:-webkit-autofill:hover,
+	textarea:-webkit-autofill:focus,
+	select:-webkit-autofill,
+	select:-webkit-autofill:hover,
+	select:-webkit-autofill:focus {
+	  -webkit-box-shadow: 0 0 0px 1000px #1f2937 inset; /* bg-gray-800 */
+	  -webkit-text-fill-color: #ffffff !important;      /* text-white */
+	  caret-color: #ffffff;
+	  transition: background-color 5000s ease-in-out 0s;
+	}
+  }
+  @layer utilities {
+	.focus-custom:focus {
+	  border-color: #5e574a;
+	}
+  }
+@theme {
+  --font-display: "Barlow", "sans-serif";
+  --font-display-2: "Bruno Ace", "sans-serif";
+}
+html {
+	@apply h-full;
+}
+
+body {
+	@apply h-full;
+	/* background-color: #d3cec4; */
+	background-color: #F0EEEA;
+	font-family: "Barlow", "sans-serif";
+}
+
+div#__next {
+	@apply h-full;
+}
+
+main {
+	@apply h-full;
+}
+
+a {
+  text-decoration: none; /* прибирає підкреслення */
+  color: inherit;         /* успадковує колір тексту від батьківського елемента */
+}

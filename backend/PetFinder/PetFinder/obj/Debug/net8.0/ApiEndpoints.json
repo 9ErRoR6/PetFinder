@@ -1,0 +1,338 @@
+[
+  {
+    "ContainingType": "PetFinder.Controllers.AdController",
+    "Method": "InsertAsync",
+    "RelativePath": "api/Ad/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AnimalTypeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Color",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsLost",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Latitude",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "Longitude",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "Date",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageUrl",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.AdController",
+    "Method": "ChangeStatusAsync",
+    "RelativePath": "api/Ad/ChangeStatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "isLost",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.AdController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Ad/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.AdController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Ad/GetAllAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.AdController",
+    "Method": "GetByAsync",
+    "RelativePath": "api/Ad/GetByAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.AnimalTypeController",
+    "Method": "Add",
+    "RelativePath": "api/AnimalType/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PetFinder.Dtos.AnimalType.AnimalTypeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.AnimalTypeController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/AnimalType/DeleteAsync",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.AnimalTypeController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/AnimalType/GetAllAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.AnimalTypeController",
+    "Method": "GetByAsync",
+    "RelativePath": "api/AnimalType/GetByAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.UserController",
+    "Method": "BlockUserAsync",
+    "RelativePath": "api/User/blockUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/User/deleteUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.UserController",
+    "Method": "EditUser",
+    "RelativePath": "api/User/editUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PetFinder.Dtos.User.EditUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.UserController",
+    "Method": "EditProfile",
+    "RelativePath": "api/User/editUserProfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PetFinder.Dtos.User.EditUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/User/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.UserController",
+    "Method": "GetById",
+    "RelativePath": "api/User/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.UserController",
+    "Method": "LogInAsync",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PetFinder.Dtos.User.LoginUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.UserController",
+    "Method": "LogoutAsync",
+    "RelativePath": "api/User/logout",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.UserController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/User/RefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PetFinder.Dtos.Token.TokenRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetFinder.Controllers.UserController",
+    "Method": "InsertAsync",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "PetFinder.Dtos.User.RegisterUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

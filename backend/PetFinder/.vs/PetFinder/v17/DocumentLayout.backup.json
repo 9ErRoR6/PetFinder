@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\PetFinder\\backend\\PetFinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\dbappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\dbappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\controllers\\animaltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\controllers\\animaltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\services\\animaltypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\services\\animaltypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\dtos\\user\\alluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\dtos\\user\\alluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\services\\adservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\services\\adservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\entities\\ad\\adentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\entities\\ad\\adentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\validation\\user\\registervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\validation\\user\\registervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\validation\\user\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\validation\\user\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\dtos\\ad\\addto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\dtos\\ad\\addto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\dtos\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\dtos\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\validation\\token\\tokenrequestvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\validation\\token\\tokenrequestvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\validation\\ad\\advalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\validation\\ad\\advalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\services\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\services\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\petfinder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\petfinder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|d:\\projects\\petfinder\\backend\\petfinder\\petfinder\\automapper\\automapperadprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A55584-7EBB-444B-A7DC-66C73E9AAA9C}|PetFinder\\PetFinder.csproj|solutionrelative:petfinder\\automapper\\automapperadprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PetFinder\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAApwFMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:23:25.251Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalTypeController.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Controllers\\AnimalTypeController.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Controllers\\AnimalTypeController.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Controllers\\AnimalTypeController.cs",
+              "RelativeToolTip": "PetFinder\\Controllers\\AnimalTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:07:03.783Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Services\\UserService.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Services\\UserService.cs",
+              "RelativeToolTip": "PetFinder\\Services\\UserService.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAuwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:57:31.175Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalTypeService.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Services\\AnimalTypeService.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Services\\AnimalTypeService.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Services\\AnimalTypeService.cs",
+              "RelativeToolTip": "PetFinder\\Services\\AnimalTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:03:51.265Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdService.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Services\\AdService.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Services\\AdService.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Services\\AdService.cs",
+              "RelativeToolTip": "PetFinder\\Services\\AdService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwEAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:34:15.603Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdController.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Controllers\\AdController.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Controllers\\AdController.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Controllers\\AdController.cs",
+              "RelativeToolTip": "PetFinder\\Controllers\\AdController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:42:43.323Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Interfaces\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Interfaces\\IJwtTokenService.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Interfaces\\IJwtTokenService.cs",
+              "RelativeToolTip": "PetFinder\\Interfaces\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:53:22.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdDto.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Dtos\\Ad\\AdDto.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Dtos\\Ad\\AdDto.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Dtos\\Ad\\AdDto.cs",
+              "RelativeToolTip": "PetFinder\\Dtos\\Ad\\AdDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:36:06.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Program.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Program.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Program.cs",
+              "RelativeToolTip": "PetFinder\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:17:23.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdEntity.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Entities\\Ad\\AdEntity.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Entities\\Ad\\AdEntity.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Entities\\Ad\\AdEntity.cs",
+              "RelativeToolTip": "PetFinder\\Entities\\Ad\\AdEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:27:06.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginValidation.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Validation\\User\\LoginValidation.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Validation\\User\\LoginValidation.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Validation\\User\\LoginValidation.cs",
+              "RelativeToolTip": "PetFinder\\Validation\\User\\LoginValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:31:47.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Constants\\Roles.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Constants\\Roles.cs",
+              "RelativeToolTip": "PetFinder\\Constants\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:15:18.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Dtos\\User\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Dtos\\User\\RegisterUserDto.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Dtos\\User\\RegisterUserDto.cs",
+              "RelativeToolTip": "PetFinder\\Dtos\\User\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:16:45.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Services\\JwtService.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Services\\JwtService.cs",
+              "RelativeToolTip": "PetFinder\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:34:51.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbAppContext.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\DbAppContext.cs",
+              "RelativeDocumentMoniker": "PetFinder\\DbAppContext.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\DbAppContext.cs",
+              "RelativeToolTip": "PetFinder\\DbAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:30:57.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterValidation.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Validation\\User\\RegisterValidation.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Validation\\User\\RegisterValidation.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Validation\\User\\RegisterValidation.cs",
+              "RelativeToolTip": "PetFinder\\Validation\\User\\RegisterValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:45:52.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllUserDto.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Dtos\\User\\AllUserDto.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Dtos\\User\\AllUserDto.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Dtos\\User\\AllUserDto.cs",
+              "RelativeToolTip": "PetFinder\\Dtos\\User\\AllUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:44:51.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenRequestValidation.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Validation\\Token\\TokenRequestValidation.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Validation\\Token\\TokenRequestValidation.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Validation\\Token\\TokenRequestValidation.cs",
+              "RelativeToolTip": "PetFinder\\Validation\\Token\\TokenRequestValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:31:42.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdValidation.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Validation\\Ad\\AdValidation.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Validation\\Ad\\AdValidation.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Validation\\Ad\\AdValidation.cs",
+              "RelativeToolTip": "PetFinder\\Validation\\Ad\\AdValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:44:55.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CloudinarySettings.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Services\\CloudinarySettings.cs",
+              "RelativeDocumentMoniker": "PetFinder\\Services\\CloudinarySettings.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\Services\\CloudinarySettings.cs",
+              "RelativeToolTip": "PetFinder\\Services\\CloudinarySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:58:54.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\appsettings.json",
+              "RelativeDocumentMoniker": "PetFinder\\appsettings.json",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\appsettings.json",
+              "RelativeToolTip": "PetFinder\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T11:51:52.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PetFinder.csproj",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\PetFinder.csproj",
+              "RelativeDocumentMoniker": "PetFinder\\PetFinder.csproj",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\PetFinder.csproj",
+              "RelativeToolTip": "PetFinder\\PetFinder.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T11:51:54.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PetFinder\\appsettings.Development.json",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\appsettings.Development.json",
+              "RelativeToolTip": "PetFinder\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T11:51:50.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutoMapperAdProfile.cs",
+              "DocumentMoniker": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\AutoMapper\\AutoMapperAdProfile.cs",
+              "RelativeDocumentMoniker": "PetFinder\\AutoMapper\\AutoMapperAdProfile.cs",
+              "ToolTip": "D:\\projects\\PetFinder\\backend\\PetFinder\\PetFinder\\AutoMapper\\AutoMapperAdProfile.cs",
+              "RelativeToolTip": "PetFinder\\AutoMapper\\AutoMapperAdProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:38:57.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
